@@ -1,37 +1,24 @@
-# oguzhanocakoglu
-Freelance App &amp; Content Assistant | React Native, Canva, E-commerce
 # Hi, I'm Oğuzhan 👋
 
-**Freelance App & Content Assistant**  
-I work on e-commerce content, Canva design templates, short video editing, and basic mobile app UI mockups with React Native.
+💻 **Mobile App & Game Developer (React Native & Unity)**  
+
+I focus on building simple but functional projects to improve my skills in:
+- 📱 React Native (Expo) for Android apps
+- 🎮 Unity 2D for mobile/indie games
+- ⚡ Basic API integrations, UI prototyping, and game mechanics
 
 ---
 
-## 🔧 What I Do
-- ✍️ **Amazon & e-commerce product descriptions** (SEO-friendly, engaging copy)  
-- 📝 **Blog posts & short content** (Turkish & English)  
-- 🎨 **Canva templates** for social media (Instagram posts, stories, TikTok visuals)  
-- 🎬 **Short video edits** for TikTok, Instagram Reels, YouTube Shorts  
-- 📱 **Mobile app UI mockups** (React Native / Expo, simple prototypes)
+## 🚀 Featured Projects
+- **Notes App (React Native)** → Offline notes with AsyncStorage  
+- **Weather App (React Native)** → Real-time weather data with API integration  
+- **Arcade Runner (Unity 2D)** → Endless runner prototype (Canabalt-inspired)  
+- **Match-3 Puzzle Concept (Unity 2D)** → Basic tile matching mechanics with scoring  
 
 ---
 
-## 📂 Portfolio Repositories
-Coming soon:
-- `amazon-listing-samples` → Example product descriptions + Canva infographics  
-- `social-templates-10` → 10 editable Canva social media templates  
-- `rn-mockup-2screens` → A simple 2-screen React Native mockup app  
-
----
-
-## 🌍 Find Me Online
-- Fiverr → [fiverr.com/oguzhanocakoglu](https://www.fiverr.com/oguzhanocakoglu)  
-- Upwork → [upwork.com/freelancers/~0130b03c283400ddb3](https://www.upwork.com/freelancers/~0130b03c283400ddb3)  
-- Bionluk → [bionluk.com/oguzhanocakoglu](https://bionluk.com/oguzhanocakoglu)  
-- LinkedIn → *(add link if you have one)*  
-
----
-
-## 📈 Next Steps
-- Add demo repositories with screenshots and short READMEs  
-- Keep updating as I build new projects and client work  
+## 🛠️ Tech Stack
+- React Native / Expo  
+- Unity (C#)  
+- JavaScript / TypeScript basics  
+- Git & GitHub for version control
